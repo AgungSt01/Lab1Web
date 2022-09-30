@@ -31,3 +31,9 @@ Tag Keterangan
 Disini saya akan menambahkan gambar dari penyimpanan lokal menggunakan tag `<img src>`
 , dan ini adalah hasilnya 
 ![Gambar 5](screenshoot/ss6.png)
+
+### Menambahkan Hyperlink
+Perintah selanjutnya adalah membuat hyperlink, menggunakan tag `<a>` dengan menambahkan atribut href
+sebagai penentu URL yang dimaksud, 
+dan ini adalah tampilanya
+![Gambar 6](screenshoot/ss7.png)
