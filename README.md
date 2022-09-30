@@ -30,3 +30,4 @@ Tag Keterangan
 ### Menambahkan Image
 Disini saya akan menambahkan gambar dari penyimpanan lokal menggunakan tag `<img src>`
 , dan ini adalah hasilnya 
+![Gambar 5](screenshoot/ss6.png)
