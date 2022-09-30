@@ -36,4 +36,4 @@ Disini saya akan menambahkan gambar dari penyimpanan lokal menggunakan tag `<img
 Perintah selanjutnya adalah membuat hyperlink, menggunakan tag `<a>` dengan menambahkan atribut href
 sebagai penentu URL yang dimaksud, 
 dan ini adalah tampilanya
-![Gambar 6](screenshoot/ss7.png)
+![Gambar 6](screenshoot/ss8.png)
