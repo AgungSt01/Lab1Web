@@ -26,3 +26,7 @@ Tag Keterangan
 `<i>` Italic text
 , dan ini adalah tampilan nya
 ![Gambar 4](screenshoot/ss5.png)
+
+### Menambahkan Image
+Disini saya akan menambahkan gambar dari penyimpanan lokal menggunakan tag `<img src>`
+, dan ini adalah hasilnya 
