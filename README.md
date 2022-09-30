@@ -11,3 +11,8 @@ ini adalah tampilanya
 Seharusnya sebelum membuat paragraf saya mengubah nama tab nya terlebih dahulu, oleh karena itu disini saya akan meberitahu cara mengubah atau mengganti nama tab dengan cara mengganti konten dari tag`<title></title>`
 ini adalah tampilanya
 ![Gambar 2](screenshoot/ss3.png)
+
+### Menambahkan Judul dan Mengubah isi paragraf
+Dalam membuat judul kita diintruksikan untuk  membuat tag h1/h1 untuk level yang ke-1 (yaitu dari paling besar hingga h6/h6 level terakhir atau yang paling kecil) `<h1></h1>`
+dan ini adalah tampilanya
+![Gambar 3](screenshoot/ss4.png)
